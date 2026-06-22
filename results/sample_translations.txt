@@ -1,0 +1,600 @@
+[NEWS] ID=1
+  SRC : Chính phủ Việt Nam đã thông qua kế hoạch phát triển kinh tế năm năm mới.
+  HYP : The Vietnamese government has been planning economic growth for the next five years.
+  REF : The Vietnamese government has approved a new five-year economic development plan.
+  COMET: 0.8587
+
+[NEWS] ID=2
+  SRC : Giá dầu thế giới tăng mạnh do căng thẳng địa chính trị ở Trung Đông.
+  HYP : World’s oil prices have increased dramatically because of geopolitic stress in the Middle East.
+  REF : Global oil prices surged sharply due to geopolitical tensions in the Middle East.
+  COMET: 0.9161
+
+[NEWS] ID=3
+  SRC : Hội nghị thượng đỉnh G20 sẽ được tổ chức tại New Delhi vào tháng tới.
+  HYP : The G20 summit will be held in New Delhi next month.
+  REF : The G20 summit will be held in New Delhi next month.
+  COMET: 0.9747
+
+[NEWS] ID=4
+  SRC : Lũ lụt nghiêm trọng đã tàn phá nhiều tỉnh miền Trung Việt Nam.
+  HYP : A severe flood devastated many of the provinces of Central Vietnam.
+  REF : Severe flooding has devastated several provinces in central Vietnam.
+  COMET: 0.8881
+
+[NEWS] ID=5
+  SRC : Ngân hàng Nhà nước quyết định giữ nguyên lãi suất cơ bản.
+  HYP : The State Bank has decided to keep the basic interest rate intact.
+  REF : The State Bank decided to keep the benchmark interest rate unchanged.
+  COMET: 0.8964
+
+[NEWS] ID=6
+  SRC : Các nhà khoa học đã phát hiện một loài thực vật mới tại rừng nhiệt đới Amazon.
+  HYP : Scientists have discovered a new species of plant in the Amazon rainforest.
+  REF : Scientists have discovered a new plant species in the Amazon rainforest.
+  COMET: 0.9598
+
+[NEWS] ID=7
+  SRC : Cơ quan y tế thế giới cảnh báo về sự lây lan của dịch bệnh mới.
+  HYP : The World Health Organization warns of the spread of the new epidemic.
+  REF : The World Health Organization warned about the spread of a new disease outbreak.
+  COMET: 0.9070
+
+[NEWS] ID=8
+  SRC : Thỏa thuận thương mại tự do giữa hai nước đã chính thức có hiệu lực.
+  HYP : The free trade agreement between the two countries is officially in effect.
+  REF : The free trade agreement between the two countries has officially come into effect.
+  COMET: 0.9536
+
+[NEWS] ID=9
+  SRC : Tổng thống Mỹ đã ký ban hành đạo luật cơ sở hạ tầng trị giá hàng nghìn tỷ đô la.
+  HYP : The President of the United States signed a thousands of dollars worth of infrastructure laws.
+  REF : The US President signed the multi-trillion dollar infrastructure bill into law.
+  COMET: 0.8069
+
+[NEWS] ID=10
+  SRC : Cuộc bầu cử tổng thống tại quốc gia đó đã diễn ra trong hòa bình.
+  HYP : The presidential election in that country was peaceful.
+  REF : The presidential election in that country took place peacefully.
+  COMET: 0.9517
+
+[TECHNOLOGY] ID=11
+  SRC : Trí tuệ nhân tạo đang thay đổi cách chúng ta làm việc và giao tiếp.
+  HYP : artificial intelligence is changing the way we work and communicate.
+  REF : Artificial intelligence is transforming the way we work and communicate.
+  COMET: 0.9631
+
+[TECHNOLOGY] ID=12
+  SRC : Công ty công nghệ lớn nhất thế giới đã ra mắt điện thoại thông minh mới nhất.
+  HYP : The largest tech company in the world has released the latest smart phone.
+  REF : The world's largest technology company has launched its latest smartphone.
+  COMET: 0.9158
+
+[TECHNOLOGY] ID=13
+  SRC : Điện toán đám mây đã trở thành nền tảng không thể thiếu trong doanh nghiệp hiện đại.
+  HYP : Cloud computing has become an integral basis in modern business.
+  REF : Cloud computing has become an indispensable foundation for modern enterprises.
+  COMET: 0.9260
+
+[TECHNOLOGY] ID=14
+  SRC : Các nhà nghiên cứu đã phát triển một thuật toán mới có thể phát hiện ung thư sớm hơn.
+  HYP : Researchers have developed a new algorithm that can detect cancer earlier.
+  REF : Researchers have developed a new algorithm that can detect cancer earlier.
+  COMET: 0.9769
+
+[TECHNOLOGY] ID=15
+  SRC : Xe tự lái sẽ sớm được phép lưu thông trên đường phố công cộng.
+  HYP : The self-driving car will soon be on public street traffic.
+  REF : Self-driving cars will soon be allowed to operate on public roads.
+  COMET: 0.8537
+
+[TECHNOLOGY] ID=16
+  SRC : Mạng 5G đang được triển khai rộng rãi tại các thành phố lớn trên toàn thế giới.
+  HYP : The 5G network is being widely deployed in major cities around the world.
+  REF : 5G networks are being widely deployed in major cities around the world.
+  COMET: 0.9536
+
+[TECHNOLOGY] ID=17
+  SRC : Bảo mật mạng ngày càng trở nên quan trọng trong thời đại số hóa.
+  HYP : Network security becomes increasingly important in the digital age.
+  REF : Cybersecurity is becoming increasingly important in the digital age.
+  COMET: 0.9437
+
+[TECHNOLOGY] ID=18
+  SRC : Học máy đang được ứng dụng trong nhiều lĩnh vực từ y tế đến tài chính.
+  HYP : Machine learning is being applied in many areas from health to finance.
+  REF : Machine learning is being applied in many fields from healthcare to finance.
+  COMET: 0.9534
+
+[TECHNOLOGY] ID=19
+  SRC : Robot công nghiệp đã tự động hóa nhiều quy trình sản xuất phức tạp.
+  HYP : Industrial robots have automated many complex manufacturing processes.
+  REF : Industrial robots have automated many complex manufacturing processes.
+  COMET: 0.9764
+
+[TECHNOLOGY] ID=20
+  SRC : Phần mềm mã nguồn mở đóng vai trò quan trọng trong hệ sinh thái công nghệ hiện đại.
+  HYP : Open-source software plays an important role in modern technology ecosystems.
+  REF : Open-source software plays an important role in the modern technology ecosystem.
+  COMET: 0.9548
+
+[MEDICAL] ID=21
+  SRC : Bác sĩ khuyến cáo bệnh nhân nên uống nhiều nước và nghỉ ngơi đầy đủ.
+  HYP : The doctor urged the patient to drink a lot of water and get sufficient rest.
+  REF : The doctor advises patients to drink plenty of water and get enough rest.
+  COMET: 0.8944
+
+[MEDICAL] ID=22
+  SRC : Nghiên cứu lâm sàng mới cho thấy loại thuốc này có hiệu quả cao trong điều trị ung thư.
+  HYP : New clinical research shows that this drug is highly effective in cancer treatment.
+  REF : A new clinical study shows that this drug is highly effective in treating cancer.
+  COMET: 0.9527
+
+[MEDICAL] ID=23
+  SRC : Hệ thống miễn dịch của cơ thể đóng vai trò quan trọng trong việc chống lại bệnh tật.
+  HYP : The body’s immune system plays an important role in fighting disease.
+  REF : The body's immune system plays a crucial role in fighting disease.
+  COMET: 0.9531
+
+[MEDICAL] ID=24
+  SRC : Tiêm vắc-xin là biện pháp phòng ngừa hiệu quả nhất đối với nhiều bệnh truyền nhiễm.
+  HYP : Vast vaccine is the most effective preventive measure for many infectious diseases.
+  REF : Vaccination is the most effective preventive measure against many infectious diseases.
+  COMET: 0.8754
+
+[MEDICAL] ID=25
+  SRC : Phẫu thuật nội soi ít xâm lấn đã giúp giảm thiểu thời gian phục hồi cho bệnh nhân.
+  HYP : Low-invasive endoscopic surgery has reduced the patient’s recovery time.
+  REF : Minimally invasive laparoscopic surgery has helped reduce recovery time for patients.
+  COMET: 0.8810
+
+[MEDICAL] ID=26
+  SRC : Sức khỏe tâm thần cần được quan tâm và điều trị như các bệnh thể chất khác.
+  HYP : Mental health needs to be cared for and treated as are other physical diseases.
+  REF : Mental health needs to be given attention and treated like other physical illnesses.
+  COMET: 0.8989
+
+[MEDICAL] ID=27
+  SRC : Liệu pháp gen có tiềm năng chữa khỏi một số bệnh di truyền hiếm gặp.
+  HYP : Genetic therapy has the potential to cure some rare genetic diseases.
+  REF : Gene therapy has the potential to cure some rare genetic diseases.
+  COMET: 0.9664
+
+[MEDICAL] ID=28
+  SRC : Bệnh đái tháo đường týp 2 thường liên quan đến lối sống không lành mạnh và béo phì.
+  HYP : Diabetic diabetes is often linked to unhealthy lifestyles and obesity.
+  REF : Type 2 diabetes is often associated with an unhealthy lifestyle and obesity.
+  COMET: 0.9004
+
+[MEDICAL] ID=29
+  SRC : Kháng sinh không có tác dụng với các bệnh do virus gây ra như cảm lạnh hay cúm.
+  HYP : Antibiotics don't work on viral diseases such as cold or flu.
+  REF : Antibiotics are not effective against diseases caused by viruses such as the common cold or influenza.
+  COMET: 0.8921
+
+[MEDICAL] ID=30
+  SRC : Chụp cộng hưởng từ giúp bác sĩ nhìn rõ hơn cấu trúc bên trong cơ thể bệnh nhân.
+  HYP : M.R.I. showed the doctor a better view of the structure inside the patient.
+  REF : MRI scans help doctors see the internal structures of a patient's body more clearly.
+  COMET: 0.6960
+
+[LEGAL] ID=31
+  SRC : Hợp đồng này sẽ có hiệu lực kể từ ngày ký kết giữa hai bên.
+  HYP : This contract will take effect since it's signed between two parties.
+  REF : This contract shall take effect from the date of signing by both parties.
+  COMET: 0.8172
+
+[LEGAL] ID=32
+  SRC : Bị cáo có quyền được im lặng và có luật sư bào chữa theo quy định pháp luật.
+  HYP : The defendant has the right to remain silent and to have a legal defense attorney.
+  REF : The defendant has the right to remain silent and to have legal counsel as prescribed by law.
+  COMET: 0.9028
+
+[LEGAL] ID=33
+  SRC : Tòa án tối cao đã ra phán quyết vi hiến đối với đạo luật mới ban hành.
+  HYP : The Supreme Court has ruled the constitution against the new law of law.
+  REF : The Supreme Court ruled the newly enacted law unconstitutional.
+  COMET: 0.6797
+
+[LEGAL] ID=34
+  SRC : Quyền sở hữu trí tuệ cần được bảo vệ nghiêm ngặt để khuyến khích sáng tạo.
+  HYP : Mind ownership needs strict protection to encourage creativity.
+  REF : Intellectual property rights need to be strictly protected to encourage innovation.
+  COMET: 0.7404
+
+[LEGAL] ID=35
+  SRC : Hành vi vi phạm hợp đồng có thể dẫn đến bồi thường thiệt hại theo quy định pháp luật.
+  HYP : The violation of a contract may result in legal damage.
+  REF : Breach of contract may lead to compensation for damages in accordance with legal provisions.
+  COMET: 0.8156
+
+[LEGAL] ID=36
+  SRC : Luật bảo vệ người tiêu dùng quy định rõ quyền và nghĩa vụ của các bên.
+  HYP : The law of protection states the rights and duties of the parties.
+  REF : Consumer protection law clearly stipulates the rights and obligations of all parties.
+  COMET: 0.7609
+
+[LEGAL] ID=37
+  SRC : Doanh nghiệp phải tuân thủ đầy đủ các quy định về thuế và báo cáo tài chính.
+  HYP : Businesses must fully comply with tax regulations and financial reports.
+  REF : Enterprises must fully comply with regulations on taxation and financial reporting.
+  COMET: 0.9097
+
+[LEGAL] ID=38
+  SRC : Thủ tục xin cấp phép kinh doanh đã được đơn giản hóa đáng kể trong những năm gần đây.
+  HYP : Business permits have been significantly simplified in recent years.
+  REF : The business licensing procedure has been significantly simplified in recent years.
+  COMET: 0.9089
+
+[LEGAL] ID=39
+  SRC : Tranh chấp thương mại quốc tế thường được giải quyết thông qua trọng tài.
+  HYP : International trade disputes are often solved through judges.
+  REF : International commercial disputes are often resolved through arbitration.
+  COMET: 0.9181
+
+[LEGAL] ID=40
+  SRC : Cơ quan chức năng đã khởi tố vụ án hình sự liên quan đến tội tham nhũng.
+  HYP : The authorities have prosecuted a criminal case involving corruption.
+  REF : The authorities have initiated criminal proceedings related to corruption charges.
+  COMET: 0.8628
+
+[EDUCATION] ID=41
+  SRC : Giáo dục là nền tảng quan trọng nhất để phát triển xã hội và con người.
+  HYP : Education is the most important basis for social and human development.
+  REF : Education is the most important foundation for the development of society and individuals.
+  COMET: 0.9086
+
+[EDUCATION] ID=42
+  SRC : Học sinh cần được trang bị kỹ năng tư duy phản biện từ sớm.
+  HYP : Students need to be equipped with rebellious thinking skills early on.
+  REF : Students need to be equipped with critical thinking skills from an early age.
+  COMET: 0.8910
+
+[EDUCATION] ID=43
+  SRC : Đại học trực tuyến đang ngày càng phổ biến và được công nhận rộng rãi.
+  HYP : Online colleges are becoming increasingly popular and widely recognized.
+  REF : Online universities are becoming increasingly popular and widely recognized.
+  COMET: 0.9492
+
+[EDUCATION] ID=44
+  SRC : Chương trình học bổng quốc tế tạo cơ hội cho sinh viên xuất sắc du học nước ngoài.
+  HYP : The international scholarship program affords students the opportunity to graduate abroad.
+  REF : International scholarship programs create opportunities for outstanding students to study abroad.
+  COMET: 0.8947
+
+[EDUCATION] ID=45
+  SRC : Giáo viên đóng vai trò truyền cảm hứng và định hướng cho thế hệ trẻ.
+  HYP : Teachers play the role of inspiring and navigation for young people.
+  REF : Teachers play the role of inspiring and guiding the younger generation.
+  COMET: 0.8469
+
+[EDUCATION] ID=46
+  SRC : Phương pháp giảng dạy tích cực giúp học sinh tiếp thu kiến thức hiệu quả hơn.
+  HYP : A positive teaching method helps students to acquire knowledge more effectively.
+  REF : Active teaching methods help students absorb knowledge more effectively.
+  COMET: 0.8903
+
+[EDUCATION] ID=47
+  SRC : Thư viện trường học là nguồn tài nguyên quý giá cho quá trình tự học của học sinh.
+  HYP : School library is a valuable resource for the learning process of the students.
+  REF : The school library is a valuable resource for students' self-learning process.
+  COMET: 0.9071
+
+[EDUCATION] ID=48
+  SRC : Giáo dục STEM đang được chú trọng phát triển để đáp ứng nhu cầu nhân lực tương lai.
+  HYP : SMG education is being promoted to meet future human resources needs.
+  REF : STEM education is being emphasized for development to meet future workforce needs.
+  COMET: 0.7985
+
+[EDUCATION] ID=49
+  SRC : Kỹ năng mềm như giao tiếp và làm việc nhóm ngày càng được coi trọng trong tuyển dụng.
+  HYP : Soft skills, such as communication and group work, are increasingly valued in recruitment.
+  REF : Soft skills such as communication and teamwork are increasingly valued in recruitment.
+  COMET: 0.9454
+
+[EDUCATION] ID=50
+  SRC : Cuộc cải cách giáo dục nhằm giảm áp lực thi cử cho học sinh và phụ huynh.
+  HYP : Education reform is designed to reduce student and parent testing.
+  REF : The education reform aims to reduce the exam pressure on students and parents.
+  COMET: 0.8046
+
+[ECONOMY] ID=51
+  SRC : Tốc độ tăng trưởng GDP của Việt Nam được dự báo đạt 6,5 phần trăm trong năm nay.
+  HYP : Vietnam's GDP growth rate is predicted to be 4.5 percent this year.
+  REF : Vietnam's GDP growth rate is forecast to reach 6.5 percent this year.
+  COMET: 0.9440
+
+[ECONOMY] ID=52
+  SRC : Lạm phát tăng cao đang ảnh hưởng đến sức mua của người dân.
+  HYP : The rise and rise are affecting people's buying power.
+  REF : Rising inflation is affecting people's purchasing power.
+  COMET: 0.6712
+
+[ECONOMY] ID=53
+  SRC : Thị trường chứng khoán biến động mạnh sau thông báo của Cục Dự trữ Liên bang Mỹ.
+  HYP : The stock market went haywire after the U.S. Federal Reserve announced.
+  REF : The stock market fluctuated sharply after the announcement from the US Federal Reserve.
+  COMET: 0.8408
+
+[ECONOMY] ID=54
+  SRC : Xuất khẩu hàng nông sản Việt Nam sang thị trường châu Âu tăng trưởng ổn định.
+  HYP : Exports Vietnamese farmers to European markets for steady growth.
+  REF : Vietnam's agricultural product exports to the European market have grown steadily.
+  COMET: 0.7014
+
+[ECONOMY] ID=55
+  SRC : Đầu tư trực tiếp nước ngoài vào Việt Nam tiếp tục tăng trưởng trong quý vừa qua.
+  HYP : A direct investment in Vietnam continues to grow in the last quarter.
+  REF : Foreign direct investment into Vietnam continued to grow in the past quarter.
+  COMET: 0.8794
+
+[ECONOMY] ID=56
+  SRC : Chính sách tài khóa thắt chặt được áp dụng để kiểm soát thâm hụt ngân sách.
+  HYP : The strong locky policy is applied to controlling the deficit.
+  REF : Tight fiscal policy is being applied to control the budget deficit.
+  COMET: 0.6956
+
+[ECONOMY] ID=57
+  SRC : Ngành du lịch đang phục hồi mạnh mẽ sau đại dịch với lượng khách quốc tế tăng vọt.
+  HYP : Tourism is resurgent from a major epidemic with skyrocketing international populations.
+  REF : The tourism industry is recovering strongly after the pandemic with international visitors surging.
+  COMET: 0.7986
+
+[ECONOMY] ID=58
+  SRC : Doanh nghiệp nhỏ và vừa đóng góp đáng kể vào việc tạo ra việc làm và tăng trưởng kinh tế.
+  HYP : Small businesses and have contributed dramatically to the creation of jobs and economic growth.
+  REF : Small and medium enterprises contribute significantly to job creation and economic growth.
+  COMET: 0.8333
+
+[ECONOMY] ID=59
+  SRC : Chuỗi cung ứng toàn cầu đang được tái cấu trúc để tăng khả năng chống chịu rủi ro.
+  HYP : The global supply chain is being restructied to increase risk resistance.
+  REF : Global supply chains are being restructured to increase resilience against risks.
+  COMET: 0.8955
+
+[ECONOMY] ID=60
+  SRC : Tiền kỹ thuật số của ngân hàng trung ương đang được thử nghiệm tại nhiều quốc gia.
+  HYP : The digital money of the central bank is being tested in many countries.
+  REF : Central bank digital currencies are being piloted in many countries.
+  COMET: 0.8693
+
+[ENVIRONMENT] ID=61
+  SRC : Biến đổi khí hậu đang gây ra những hiện tượng thời tiết cực đoan ngày càng nghiêm trọng.
+  HYP : Climate change is causing more and more extreme weather events.
+  REF : Climate change is causing increasingly severe extreme weather events.
+  COMET: 0.9240
+
+[ENVIRONMENT] ID=62
+  SRC : Việt Nam cam kết đạt mức phát thải ròng bằng không vào năm 2050.
+  HYP : Vietnam was committed to zero emissions in 2050.
+  REF : Vietnam has committed to achieving net-zero emissions by 2050.
+  COMET: 0.9198
+
+[ENVIRONMENT] ID=63
+  SRC : Rừng nhiệt đới đóng vai trò thiết yếu trong việc hấp thụ carbon dioxide từ khí quyển.
+  HYP : The jungle plays a vital role in absorbing carbon dioxide from the atmosphere.
+  REF : Tropical forests play an essential role in absorbing carbon dioxide from the atmosphere.
+  COMET: 0.9209
+
+[ENVIRONMENT] ID=64
+  SRC : Ô nhiễm nhựa trong đại dương đang đe dọa nghiêm trọng hệ sinh thái biển.
+  HYP : The plastic pollution in the ocean is seriously threatening ocean ecosystems.
+  REF : Plastic pollution in the oceans is seriously threatening marine ecosystems.
+  COMET: 0.9445
+
+[ENVIRONMENT] ID=65
+  SRC : Năng lượng tái tạo như điện gió và điện mặt trời ngày càng cạnh tranh về chi phí.
+  HYP : Regenerative energy, such as wind electricity and solar electricity, is increasingly competitive about cost.
+  REF : Renewable energy such as wind power and solar power is becoming increasingly cost-competitive.
+  COMET: 0.8730
+
+[ENVIRONMENT] ID=66
+  SRC : Nước ngầm tại nhiều vùng đang bị khai thác quá mức dẫn đến sụt lún đất.
+  HYP : Underwater in many areas is being exploited to the point of sinking to the ground.
+  REF : Groundwater in many areas is being over-exploited, leading to land subsidence.
+  COMET: 0.6258
+
+[ENVIRONMENT] ID=67
+  SRC : Chính sách bảo tồn đa dạng sinh học cần được thực thi mạnh mẽ hơn.
+  HYP : Biodiversity policy needs to be more powerful.
+  REF : Biodiversity conservation policies need to be implemented more vigorously.
+  COMET: 0.8750
+
+[ENVIRONMENT] ID=68
+  SRC : San hô trên toàn cầu đang bị tẩy trắng do nhiệt độ nước biển tăng cao.
+  HYP : Global corals are being cleansed because of rising sea temperatures.
+  REF : Coral reefs worldwide are bleaching due to rising ocean temperatures.
+  COMET: 0.8175
+
+[ENVIRONMENT] ID=69
+  SRC : Các thành phố thông minh đang áp dụng công nghệ để giảm thiểu lượng khí thải carbon.
+  HYP : Smart cities are using technology to reduce carbon emissions.
+  REF : Smart cities are applying technology to minimize carbon emissions.
+  COMET: 0.9469
+
+[ENVIRONMENT] ID=70
+  SRC : Phong trào giảm rác thải và tái chế đang lan rộng trong cộng đồng trên toàn thế giới.
+  HYP : Deletion and recycling have spread throughout the world’s communities.
+  REF : The waste reduction and recycling movement is spreading throughout communities worldwide.
+  COMET: 0.7731
+
+[CULTURE] ID=71
+  SRC : Tết Nguyên Đán là lễ hội truyền thống quan trọng nhất của người Việt Nam.
+  HYP : Lunar New Year is the most important tradition festival in Vietnam.
+  REF : Lunar New Year is the most important traditional festival for Vietnamese people.
+  COMET: 0.9082
+
+[CULTURE] ID=72
+  SRC : Áo dài là trang phục truyền thống đặc trưng và niềm tự hào của người Việt Nam.
+  HYP : Long robes are the traditional clothes and pride of the Vietnamese.
+  REF : Ao dai is the distinctive traditional garment and a source of pride for Vietnamese people.
+  COMET: 0.7946
+
+[CULTURE] ID=73
+  SRC : Ẩm thực Việt Nam nổi tiếng thế giới với sự phong phú và đặc trưng của từng vùng miền.
+  HYP : Vietnam is world famous for its variety and characteristic of its region.
+  REF : Vietnamese cuisine is world-renowned for its richness and the distinctiveness of each region.
+  COMET: 0.7649
+
+[CULTURE] ID=74
+  SRC : Nghệ thuật múa rối nước là loại hình nghệ thuật độc đáo có nguồn gốc từ đồng bằng Bắc Bộ.
+  HYP : The art of puppetry is a unique form of art derived from the plains of the Northlands.
+  REF : Water puppet art is a unique art form originating from the Red River Delta.
+  COMET: 0.7424
+
+[CULTURE] ID=75
+  SRC : Phố cổ Hội An là di sản văn hóa thế giới được UNESCO công nhận.
+  HYP : The Old Society of An is the widely recognized cultural heritage of the world.
+  REF : Hoi An Ancient Town is a UNESCO-recognized World Cultural Heritage site.
+  COMET: 0.5867
+
+[CULTURE] ID=76
+  SRC : Nhạc dân gian Việt Nam phản ánh sâu sắc đời sống và tâm hồn của người dân.
+  HYP : Vietnamese musicians are deeply reflected in people’s lives and souls.
+  REF : Vietnamese folk music profoundly reflects the life and soul of the people.
+  COMET: 0.7832
+
+[CULTURE] ID=77
+  SRC : Lễ hội đua thuyền truyền thống thu hút hàng nghìn người tham gia và cổ vũ.
+  HYP : The traditional boat racing festival attracts thousands of participants and cheerleaders.
+  REF : The traditional boat racing festival attracts thousands of participants and spectators.
+  COMET: 0.8798
+
+[CULTURE] ID=78
+  SRC : Điêu khắc Chăm Pa là một trong những di sản nghệ thuật quý giá nhất của Việt Nam.
+  HYP : Pa is one of Vietnam’s most valuable artistic heritages.
+  REF : Cham sculpture is one of Vietnam's most precious artistic heritages.
+  COMET: 0.8545
+
+[CULTURE] ID=79
+  SRC : Tiếng Việt thuộc ngữ hệ Austroasiatic và sử dụng chữ Quốc ngữ dựa trên bảng chữ cái Latinh.
+  HYP : The Austrosiatic language and the Latin alphabet based the language.
+  REF : Vietnamese belongs to the Austroasiatic language family and uses the Quoc ngu script based on the Latin alphabet.
+  COMET: 0.6156
+
+[CULTURE] ID=80
+  SRC : Văn học dân gian Việt Nam bao gồm nhiều thể loại như truyện cổ tích, ca dao và tục ngữ.
+  HYP : Vietnamese literature consists of many types such as fairy tales, songs, and proverbs.
+  REF : Vietnamese folk literature includes many genres such as fairy tales, folk songs, and proverbs.
+  COMET: 0.9175
+
+[DAILY_LIFE] ID=81
+  SRC : Tôi cần đặt một bàn ăn tối cho hai người vào tối thứ Sáu.
+  HYP : I need to book a dinner table for you two on Friday night.
+  REF : I need to book a dinner table for two people on Friday evening.
+  COMET: 0.9021
+
+[DAILY_LIFE] ID=82
+  SRC : Siêu thị này mở cửa từ bảy giờ sáng đến mười giờ tối mỗi ngày.
+  HYP : This supermarket opens from seven o’clock in the morning to ten o’clock each day.
+  REF : This supermarket opens from seven in the morning to ten at night every day.
+  COMET: 0.8597
+
+[DAILY_LIFE] ID=83
+  SRC : Tôi bị lạc đường và cần chỉ dẫn đến bến xe buýt gần nhất.
+  HYP : I lost my way and needed directions to the nearest bus stop.
+  REF : I am lost and need directions to the nearest bus station.
+  COMET: 0.9306
+
+[DAILY_LIFE] ID=84
+  SRC : Hóa đơn điện tháng này tăng gấp đôi so với tháng trước.
+  HYP : This month's electric bill doubles what it was last month.
+  REF : This month's electricity bill doubled compared to last month.
+  COMET: 0.8977
+
+[DAILY_LIFE] ID=85
+  SRC : Anh ấy thức dậy lúc sáu giờ sáng và đi tập thể dục mỗi ngày.
+  HYP : He gets up at six in the morning and goes to exercise every day.
+  REF : He wakes up at six in the morning and exercises every day.
+  COMET: 0.9305
+
+[DAILY_LIFE] ID=86
+  SRC : Chúng tôi đặt mua hàng trực tuyến và hàng sẽ được giao trong vòng ba ngày.
+  HYP : We ordered it online and it will be delivered within three days.
+  REF : We ordered online and the goods will be delivered within three days.
+  COMET: 0.9050
+
+[DAILY_LIFE] ID=87
+  SRC : Trời đang mưa to nên tôi quyết định ở nhà và nấu cơm.
+  HYP : It was raining so hard that I decided to stay home and make rice.
+  REF : It is raining heavily so I decided to stay home and cook.
+  COMET: 0.8938
+
+[DAILY_LIFE] ID=88
+  SRC : Cô ấy học tiếng Anh mỗi buổi tối để chuẩn bị cho kỳ thi.
+  HYP : She learned English every evening to prepare for her exam.
+  REF : She studies English every evening to prepare for the exam.
+  COMET: 0.9253
+
+[DAILY_LIFE] ID=89
+  SRC : Xe máy của tôi bị hỏng nên tôi phải đi taxi đến công ty.
+  HYP : My motorcycle broke down, so I had to take a taxi to the company.
+  REF : My motorbike broke down so I had to take a taxi to the office.
+  COMET: 0.9185
+
+[DAILY_LIFE] ID=90
+  SRC : Gia đình tôi thường ăn tối cùng nhau và chia sẻ về ngày hôm đó.
+  HYP : We used to have dinner together and talk about that day.
+  REF : My family usually eats dinner together and shares about the day.
+  COMET: 0.8281
+
+[SCIENCE] ID=91
+  SRC : Thuyết tương đối của Einstein đã thay đổi hoàn toàn cách hiểu về không gian và thời gian.
+  HYP : Einstein's theory of relativity completely changed the understanding of space and time.
+  REF : Einstein's theory of relativity completely changed the understanding of space and time.
+  COMET: 0.9687
+
+[SCIENCE] ID=92
+  SRC : Kính viễn vọng không gian James Webb đã ghi lại những hình ảnh đáng kinh ngạc về vũ trụ sơ khai.
+  HYP : The James Webb Space Telescope recorded amazing images of the early universe.
+  REF : The James Webb Space Telescope has captured stunning images of the early universe.
+  COMET: 0.9276
+
+[SCIENCE] ID=93
+  SRC : Cấu trúc DNA được khám phá bởi Watson và Crick vào năm 1953.
+  HYP : DNA structure was discovered by Watson and Crick in 1953.
+  REF : The structure of DNA was discovered by Watson and Crick in 1953.
+  COMET: 0.9471
+
+[SCIENCE] ID=94
+  SRC : Vật lý lượng tử mô tả hành vi của các hạt ở cấp độ vi mô.
+  HYP : quantum physics describes the behavior of particles at a micro level.
+  REF : Quantum physics describes the behavior of particles at the microscopic level.
+  COMET: 0.9115
+
+[SCIENCE] ID=95
+  SRC : Các nhà khoa học đang nghiên cứu cách sử dụng năng lượng nhiệt hạch như nguồn năng lượng sạch.
+  HYP : Scientists are studying using fusion energy as a clean source of energy.
+  REF : Scientists are researching how to use fusion energy as a clean energy source.
+  COMET: 0.9161
+
+[SCIENCE] ID=96
+  SRC : Hệ mặt trời của chúng ta bao gồm tám hành tinh quay quanh mặt trời.
+  HYP : Our solar system consists of eight planets orbiting the sun.
+  REF : Our solar system consists of eight planets orbiting the sun.
+  COMET: 0.9758
+
+[SCIENCE] ID=97
+  SRC : Protein đóng vai trò thiết yếu trong các phản ứng sinh hóa diễn ra trong cơ thể sống.
+  HYP : Protein plays a vital role in biological reactions that take place in the living organism.
+  REF : Proteins play an essential role in the biochemical reactions occurring in living organisms.
+  COMET: 0.9260
+
+[SCIENCE] ID=98
+  SRC : Sự tiến hóa của các loài được giải thích bởi thuyết chọn lọc tự nhiên của Darwin.
+  HYP : The evolution of species is explained by Darwinian natural selection theory.
+  REF : The evolution of species is explained by Darwin's theory of natural selection.
+  COMET: 0.9461
+
+[SCIENCE] ID=99
+  SRC : Sóng hấp dẫn được phát hiện lần đầu tiên vào năm 2015 bởi đài quan sát LIGO.
+  HYP : It was first discovered in 2015 by LIGO Observer.
+  REF : Gravitational waves were first detected in 2015 by the LIGO observatory.
+  COMET: 0.7660
+
+[SCIENCE] ID=100
+  SRC : Vắc-xin mRNA đã mở ra một kỷ nguyên mới trong việc phòng ngừa và điều trị bệnh.
+  HYP : The mRNA vaccine has opened up a new era of prevention and treatment.
+  REF : mRNA vaccines have opened a new era in disease prevention and treatment.
+  COMET: 0.9333
+

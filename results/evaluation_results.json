@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "model": "Helsinki-NLP/opus-mt-vi-en",
+    "task": "vi → en",
+    "benchmark": "benchmark\\vi_en_benchmark.json",
+    "n_sentences": 100,
+    "n_domains": 10,
+    "device": "CPU",
+    "timestamp": "2026-06-22T10:53:30.138941",
+    "python_version": "3.13.2 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 18:49:14) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch_version": "2.12.0+cpu"
+  },
+  "quality_metrics": {
+    "BLEU": {
+      "score": 37.0759,
+      "detail": "BLEU = 37.08 65.1/41.4/30.4/23.7 (BP = 0.994 ratio = 0.994 hyp_len = 1251 ref_len = 1258)"
+    },
+    "spBLEU": {
+      "score": 36.174,
+      "detail": "BLEU = 36.17 64.8/42.6/31.2/24.4 (BP = 0.950 ratio = 0.951 hyp_len = 1410 ref_len = 1482)"
+    },
+    "chrF": {
+      "score": 62.1139,
+      "detail": "chrF2 = 62.11"
+    },
+    "chrF++": {
+      "score": 59.8506,
+      "detail": "chrF2++ = 59.85"
+    },
+    "WER_%": {
+      "score": 49.2449
+    },
+    "COMET": {
+      "score": 0.874,
+      "model": "Unbabel/wmt22-comet-da"
+    }
+  },
+  "performance_metrics": {
+    "model_parameters": 72177152,
+    "model_size_mb_float32": 275.33,
+    "ram_delta_on_load_mb": 277.84,
+    "peak_ram_used_mb": 14597.93,
+    "peak_vram_used_mb": 0.0,
+    "total_inference_time_s": 10.919,
+    "avg_latency_ms": 109.038,
+    "median_latency_ms": 107.61,
+    "p95_latency_ms": 127.717,
+    "throughput_sentences_per_s": 9.158,
+    "total_output_tokens": 2357,
+    "system_monitor": {
+      "cpu_percent": {
+        "mean": 83.35,
+        "max": 93.4,
+        "min": 0.0
+      },
+      "ram_used_mb": {
+        "mean": 14560.27,
+        "max": 14597.93,
+        "min": 14468.85
+      },
+      "gpu_util_percent": {
+        "mean": 0,
+        "max": 0,
+        "min": 0
+      },
+      "vram_used_mb": {
+        "mean": 0,
+        "max": 0,
+        "min": 0
+      }
+    }
+  },
+  "per_domain": {
+    "culture": {
+      "n_sentences": 10,
+      "bleu": 24.56,
+      "chrf": 51.4
+    },
+    "daily_life": {
+      "n_sentences": 10,
+      "bleu": 44.94,
+      "chrf": 66.79
+    },
+    "economy": {
+      "n_sentences": 10,
+      "bleu": 17.39,
+      "chrf": 53.52
+    },
+    "education": {
+      "n_sentences": 10,
+      "bleu": 37.25,
+      "chrf": 65.68
+    },
+    "environment": {
+      "n_sentences": 10,
+      "bleu": 25.6,
+      "chrf": 57.5
+    },
+    "legal": {
+      "n_sentences": 10,
+      "bleu": 25.84,
+      "chrf": 52.77
+    },
+    "medical": {
+      "n_sentences": 10,
+      "bleu": 34.65,
+      "chrf": 60.53
+    },
+    "news": {
+      "n_sentences": 10,
+      "bleu": 39.56,
+      "chrf": 65.45
+    },
+    "science": {
+      "n_sentences": 10,
+      "bleu": 53.54,
+      "chrf": 72.95
+    },
+    "technology": {
+      "n_sentences": 10,
+      "bleu": 57.49,
+      "chrf": 77.86
+    }
+  }
+}
