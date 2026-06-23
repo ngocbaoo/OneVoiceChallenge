@@ -1,0 +1,29 @@
+{
+  "stage": "TTS (Piper en_US-lessac-medium)",
+  "baseline": {
+    "variant": "fp32",
+    "size_mb": 60.3,
+    "ram_load_mb": 79.1,
+    "lat_mean_ms": 632.1,
+    "lat_p95_ms": 833.0,
+    "rtf": 0.1593,
+    "x_real_time": 6.28,
+    "wer_subset_%": 1.66
+  },
+  "optimized": {
+    "variant": "int8",
+    "size_mb": 17.8,
+    "ram_load_mb": 33.7,
+    "lat_mean_ms": 4346.0,
+    "lat_p95_ms": 6134.5,
+    "rtf": 1.0818,
+    "x_real_time": 0.92,
+    "wer_subset_%": 1.68
+  },
+  "wer_subset_n": 30,
+  "deltas": {
+    "size_reduction_x": 3.39,
+    "speedup_x": 0.15,
+    "wer_delta_pp": 0.02
+  }
+}
