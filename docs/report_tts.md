@@ -210,8 +210,7 @@ DNSMOS P808 = 4.03   (P.808 listening quality)
 
 ### 4.4 RAM Usage
 
-RAM riêng cho **TTS inference** chỉ khoảng **~30 MB** — cực kỳ nhẹ, phù hợp cho thiết bị edge/embedded. (Peak RAM hệ thống ~13.7 GB là RAM tổng của toàn máy, không phải mức tiêu thụ của TTS.)
-
+RAM riêng cho **TTS inference** chỉ khoảng **~30 MB** — cực kỳ nhẹ, phù hợp cho thiết bị edge/embedded.
 ---
 
 ## 5. Phân Tích Định Tính
