@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "domain": "news",
+    "text": "Chính phủ Việt Nam đã thông qua kế hoạch phát triển kinh tế năm năm mới."
+  },
+  {
+    "id": 2,
+    "domain": "news",
+    "text": "Giá dầu thế giới tăng mạnh do căng thẳng địa chính trị ở Trung Đông."
+  },
+  {
+    "id": 3,
+    "domain": "news",
+    "text": "Hội nghị thượng đỉnh G20 sẽ được tổ chức tại New Delhi vào tháng tới."
+  },
+  {
+    "id": 4,
+    "domain": "news",
+    "text": "Lũ lụt nghiêm trọng đã tàn phá nhiều tỉnh miền Trung Việt Nam."
+  },
+  {
+    "id": 5,
+    "domain": "news",
+    "text": "Ngân hàng Nhà nước quyết định giữ nguyên lãi suất cơ bản."
+  },
+  {
+    "id": 6,
+    "domain": "news",
+    "text": "Các nhà khoa học đã phát hiện một loài thực vật mới tại rừng nhiệt đới Amazon."
+  },
+  {
+    "id": 7,
+    "domain": "news",
+    "text": "Cơ quan y tế thế giới cảnh báo về sự lây lan của dịch bệnh mới."
+  },
+  {
+    "id": 8,
+    "domain": "news",
+    "text": "Thỏa thuận thương mại tự do giữa hai nước đã chính thức có hiệu lực."
+  },
+  {
+    "id": 9,
+    "domain": "news",
+    "text": "Tổng thống Mỹ đã ký ban hành đạo luật cơ sở hạ tầng trị giá hàng nghìn tỷ đô la."
+  },
+  {
+    "id": 10,
+    "domain": "news",
+    "text": "Cuộc bầu cử tổng thống tại quốc gia đó đã diễn ra trong hòa bình."
+  },
+  {
+    "id": 11,
+    "domain": "technology",
+    "text": "Trí tuệ nhân tạo đang thay đổi cách chúng ta làm việc và giao tiếp."
+  },
+  {
+    "id": 12,
+    "domain": "technology",
+    "text": "Công ty công nghệ lớn nhất thế giới đã ra mắt điện thoại thông minh mới nhất."
+  },
+  {
+    "id": 13,
+    "domain": "technology",
+    "text": "Điện toán đám mây đã trở thành nền tảng không thể thiếu trong doanh nghiệp hiện đại."
+  },
+  {
+    "id": 14,
+    "domain": "technology",
+    "text": "Các nhà nghiên cứu đã phát triển một thuật toán mới có thể phát hiện ung thư sớm hơn."
+  },
+  {
+    "id": 15,
+    "domain": "technology",
+    "text": "Xe tự lái sẽ sớm được phép lưu thông trên đường phố công cộng."
+  },
+  {
+    "id": 16,
+    "domain": "technology",
+    "text": "Mạng 5G đang được triển khai rộng rãi tại các thành phố lớn trên toàn thế giới."
+  },
+  {
+    "id": 17,
+    "domain": "technology",
+    "text": "Bảo mật mạng ngày càng trở nên quan trọng trong thời đại số hóa."
+  },
+  {
+    "id": 18,
+    "domain": "technology",
+    "text": "Học máy đang được ứng dụng trong nhiều lĩnh vực từ y tế đến tài chính."
+  },
+  {
+    "id": 19,
+    "domain": "technology",
+    "text": "Robot công nghiệp đã tự động hóa nhiều quy trình sản xuất phức tạp."
+  },
+  {
+    "id": 20,
+    "domain": "technology",
+    "text": "Phần mềm mã nguồn mở đóng vai trò quan trọng trong hệ sinh thái công nghệ hiện đại."
+  },
+  {
+    "id": 21,
+    "domain": "medical",
+    "text": "Bác sĩ khuyến cáo bệnh nhân nên uống nhiều nước và nghỉ ngơi đầy đủ."
+  },
+  {
+    "id": 22,
+    "domain": "medical",
+    "text": "Nghiên cứu lâm sàng mới cho thấy loại thuốc này có hiệu quả cao trong điều trị ung thư."
+  },
+  {
+    "id": 23,
+    "domain": "medical",
+    "text": "Hệ thống miễn dịch của cơ thể đóng vai trò quan trọng trong việc chống lại bệnh tật."
+  },
+  {
+    "id": 24,
+    "domain": "medical",
+    "text": "Tiêm vắc-xin là biện pháp phòng ngừa hiệu quả nhất đối với nhiều bệnh truyền nhiễm."
+  },
+  {
+    "id": 25,
+    "domain": "medical",
+    "text": "Phẫu thuật nội soi ít xâm lấn đã giúp giảm thiểu thời gian phục hồi cho bệnh nhân."
+  },
+  {
+    "id": 26,
+    "domain": "medical",
+    "text": "Sức khỏe tâm thần cần được quan tâm và điều trị như các bệnh thể chất khác."
+  },
+  {
+    "id": 27,
+    "domain": "medical",
+    "text": "Liệu pháp gen có tiềm năng chữa khỏi một số bệnh di truyền hiếm gặp."
+  },
+  {
+    "id": 28,
+    "domain": "medical",
+    "text": "Bệnh đái tháo đường týp 2 thường liên quan đến lối sống không lành mạnh và béo phì."
+  },
+  {
+    "id": 29,
+    "domain": "medical",
+    "text": "Kháng sinh không có tác dụng với các bệnh do virus gây ra như cảm lạnh hay cúm."
+  },
+  {
+    "id": 30,
+    "domain": "medical",
+    "text": "Chụp cộng hưởng từ giúp bác sĩ nhìn rõ hơn cấu trúc bên trong cơ thể bệnh nhân."
+  },
+  {
+    "id": 31,
+    "domain": "legal",
+    "text": "Hợp đồng này sẽ có hiệu lực kể từ ngày ký kết giữa hai bên."
+  },
+  {
+    "id": 32,
+    "domain": "legal",
+    "text": "Bị cáo có quyền được im lặng và có luật sư bào chữa theo quy định pháp luật."
+  },
+  {
+    "id": 33,
+    "domain": "legal",
+    "text": "Tòa án tối cao đã ra phán quyết vi hiến đối với đạo luật mới ban hành."
+  },
+  {
+    "id": 34,
+    "domain": "legal",
+    "text": "Quyền sở hữu trí tuệ cần được bảo vệ nghiêm ngặt để khuyến khích sáng tạo."
+  },
+  {
+    "id": 35,
+    "domain": "legal",
+    "text": "Hành vi vi phạm hợp đồng có thể dẫn đến bồi thường thiệt hại theo quy định pháp luật."
+  },
+  {
+    "id": 36,
+    "domain": "legal",
+    "text": "Luật bảo vệ người tiêu dùng quy định rõ quyền và nghĩa vụ của các bên."
+  },
+  {
+    "id": 37,
+    "domain": "legal",
+    "text": "Doanh nghiệp phải tuân thủ đầy đủ các quy định về thuế và báo cáo tài chính."
+  },
+  {
+    "id": 38,
+    "domain": "legal",
+    "text": "Thủ tục xin cấp phép kinh doanh đã được đơn giản hóa đáng kể trong những năm gần đây."
+  },
+  {
+    "id": 39,
+    "domain": "legal",
+    "text": "Tranh chấp thương mại quốc tế thường được giải quyết thông qua trọng tài."
+  },
+  {
+    "id": 40,
+    "domain": "legal",
+    "text": "Cơ quan chức năng đã khởi tố vụ án hình sự liên quan đến tội tham nhũng."
+  },
+  {
+    "id": 41,
+    "domain": "education",
+    "text": "Giáo dục là nền tảng quan trọng nhất để phát triển xã hội và con người."
+  },
+  {
+    "id": 42,
+    "domain": "education",
+    "text": "Học sinh cần được trang bị kỹ năng tư duy phản biện từ sớm."
+  },
+  {
+    "id": 43,
+    "domain": "education",
+    "text": "Đại học trực tuyến đang ngày càng phổ biến và được công nhận rộng rãi."
+  },
+  {
+    "id": 44,
+    "domain": "education",
+    "text": "Chương trình học bổng quốc tế tạo cơ hội cho sinh viên xuất sắc du học nước ngoài."
+  },
+  {
+    "id": 45,
+    "domain": "education",
+    "text": "Giáo viên đóng vai trò truyền cảm hứng và định hướng cho thế hệ trẻ."
+  },
+  {
+    "id": 46,
+    "domain": "education",
+    "text": "Phương pháp giảng dạy tích cực giúp học sinh tiếp thu kiến thức hiệu quả hơn."
+  },
+  {
+    "id": 47,
+    "domain": "education",
+    "text": "Thư viện trường học là nguồn tài nguyên quý giá cho quá trình tự học của học sinh."
+  },
+  {
+    "id": 48,
+    "domain": "education",
+    "text": "Giáo dục STEM đang được chú trọng phát triển để đáp ứng nhu cầu nhân lực tương lai."
+  },
+  {
+    "id": 49,
+    "domain": "education",
+    "text": "Kỹ năng mềm như giao tiếp và làm việc nhóm ngày càng được coi trọng trong tuyển dụng."
+  },
+  {
+    "id": 50,
+    "domain": "education",
+    "text": "Cuộc cải cách giáo dục nhằm giảm áp lực thi cử cho học sinh và phụ huynh."
+  },
+  {
+    "id": 51,
+    "domain": "economy",
+    "text": "Tốc độ tăng trưởng GDP của Việt Nam được dự báo đạt 6,5 phần trăm trong năm nay."
+  },
+  {
+    "id": 52,
+    "domain": "economy",
+    "text": "Lạm phát tăng cao đang ảnh hưởng đến sức mua của người dân."
+  },
+  {
+    "id": 53,
+    "domain": "economy",
+    "text": "Thị trường chứng khoán biến động mạnh sau thông báo của Cục Dự trữ Liên bang Mỹ."
+  },
+  {
+    "id": 54,
+    "domain": "economy",
+    "text": "Xuất khẩu hàng nông sản Việt Nam sang thị trường châu Âu tăng trưởng ổn định."
+  },
+  {
+    "id": 55,
+    "domain": "economy",
+    "text": "Đầu tư trực tiếp nước ngoài vào Việt Nam tiếp tục tăng trưởng trong quý vừa qua."
+  },
+  {
+    "id": 56,
+    "domain": "economy",
+    "text": "Chính sách tài khóa thắt chặt được áp dụng để kiểm soát thâm hụt ngân sách."
+  },
+  {
+    "id": 57,
+    "domain": "economy",
+    "text": "Ngành du lịch đang phục hồi mạnh mẽ sau đại dịch với lượng khách quốc tế tăng vọt."
+  },
+  {
+    "id": 58,
+    "domain": "economy",
+    "text": "Doanh nghiệp nhỏ và vừa đóng góp đáng kể vào việc tạo ra việc làm và tăng trưởng kinh tế."
+  },
+  {
+    "id": 59,
+    "domain": "economy",
+    "text": "Chuỗi cung ứng toàn cầu đang được tái cấu trúc để tăng khả năng chống chịu rủi ro."
+  },
+  {
+    "id": 60,
+    "domain": "economy",
+    "text": "Tiền kỹ thuật số của ngân hàng trung ương đang được thử nghiệm tại nhiều quốc gia."
+  },
+  {
+    "id": 61,
+    "domain": "environment",
+    "text": "Biến đổi khí hậu đang gây ra những hiện tượng thời tiết cực đoan ngày càng nghiêm trọng."
+  },
+  {
+    "id": 62,
+    "domain": "environment",
+    "text": "Việt Nam cam kết đạt mức phát thải ròng bằng không vào năm 2050."
+  },
+  {
+    "id": 63,
+    "domain": "environment",
+    "text": "Rừng nhiệt đới đóng vai trò thiết yếu trong việc hấp thụ carbon dioxide từ khí quyển."
+  },
+  {
+    "id": 64,
+    "domain": "environment",
+    "text": "Ô nhiễm nhựa trong đại dương đang đe dọa nghiêm trọng hệ sinh thái biển."
+  },
+  {
+    "id": 65,
+    "domain": "environment",
+    "text": "Năng lượng tái tạo như điện gió và điện mặt trời ngày càng cạnh tranh về chi phí."
+  },
+  {
+    "id": 66,
+    "domain": "environment",
+    "text": "Nước ngầm tại nhiều vùng đang bị khai thác quá mức dẫn đến sụt lún đất."
+  },
+  {
+    "id": 67,
+    "domain": "environment",
+    "text": "Chính sách bảo tồn đa dạng sinh học cần được thực thi mạnh mẽ hơn."
+  },
+  {
+    "id": 68,
+    "domain": "environment",
+    "text": "San hô trên toàn cầu đang bị tẩy trắng do nhiệt độ nước biển tăng cao."
+  },
+  {
+    "id": 69,
+    "domain": "environment",
+    "text": "Các thành phố thông minh đang áp dụng công nghệ để giảm thiểu lượng khí thải carbon."
+  },
+  {
+    "id": 70,
+    "domain": "environment",
+    "text": "Phong trào giảm rác thải và tái chế đang lan rộng trong cộng đồng trên toàn thế giới."
+  },
+  {
+    "id": 71,
+    "domain": "culture",
+    "text": "Tết Nguyên Đán là lễ hội truyền thống quan trọng nhất của người Việt Nam."
+  },
+  {
+    "id": 72,
+    "domain": "culture",
+    "text": "Áo dài là trang phục truyền thống đặc trưng và niềm tự hào của người Việt Nam."
+  },
+  {
+    "id": 73,
+    "domain": "culture",
+    "text": "Ẩm thực Việt Nam nổi tiếng thế giới với sự phong phú và đặc trưng của từng vùng miền."
+  },
+  {
+    "id": 74,
+    "domain": "culture",
+    "text": "Nghệ thuật múa rối nước là loại hình nghệ thuật độc đáo có nguồn gốc từ đồng bằng Bắc Bộ."
+  },
+  {
+    "id": 75,
+    "domain": "culture",
+    "text": "Phố cổ Hội An là di sản văn hóa thế giới được UNESCO công nhận."
+  },
+  {
+    "id": 76,
+    "domain": "culture",
+    "text": "Nhạc dân gian Việt Nam phản ánh sâu sắc đời sống và tâm hồn của người dân."
+  },
+  {
+    "id": 77,
+    "domain": "culture",
+    "text": "Lễ hội đua thuyền truyền thống thu hút hàng nghìn người tham gia và cổ vũ."
+  },
+  {
+    "id": 78,
+    "domain": "culture",
+    "text": "Điêu khắc Chăm Pa là một trong những di sản nghệ thuật quý giá nhất của Việt Nam."
+  },
+  {
+    "id": 79,
+    "domain": "culture",
+    "text": "Tiếng Việt thuộc ngữ hệ Austroasiatic và sử dụng chữ Quốc ngữ dựa trên bảng chữ cái Latinh."
+  },
+  {
+    "id": 80,
+    "domain": "culture",
+    "text": "Văn học dân gian Việt Nam bao gồm nhiều thể loại như truyện cổ tích, ca dao và tục ngữ."
+  },
+  {
+    "id": 81,
+    "domain": "daily_life",
+    "text": "Tôi cần đặt một bàn ăn tối cho hai người vào tối thứ Sáu."
+  },
+  {
+    "id": 82,
+    "domain": "daily_life",
+    "text": "Siêu thị này mở cửa từ bảy giờ sáng đến mười giờ tối mỗi ngày."
+  },
+  {
+    "id": 83,
+    "domain": "daily_life",
+    "text": "Tôi bị lạc đường và cần chỉ dẫn đến bến xe buýt gần nhất."
+  },
+  {
+    "id": 84,
+    "domain": "daily_life",
+    "text": "Hóa đơn điện tháng này tăng gấp đôi so với tháng trước."
+  },
+  {
+    "id": 85,
+    "domain": "daily_life",
+    "text": "Anh ấy thức dậy lúc sáu giờ sáng và đi tập thể dục mỗi ngày."
+  },
+  {
+    "id": 86,
+    "domain": "daily_life",
+    "text": "Chúng tôi đặt mua hàng trực tuyến và hàng sẽ được giao trong vòng ba ngày."
+  },
+  {
+    "id": 87,
+    "domain": "daily_life",
+    "text": "Trời đang mưa to nên tôi quyết định ở nhà và nấu cơm."
+  },
+  {
+    "id": 88,
+    "domain": "daily_life",
+    "text": "Cô ấy học tiếng Anh mỗi buổi tối để chuẩn bị cho kỳ thi."
+  },
+  {
+    "id": 89,
+    "domain": "daily_life",
+    "text": "Xe máy của tôi bị hỏng nên tôi phải đi taxi đến công ty."
+  },
+  {
+    "id": 90,
+    "domain": "daily_life",
+    "text": "Gia đình tôi thường ăn tối cùng nhau và chia sẻ về ngày hôm đó."
+  },
+  {
+    "id": 91,
+    "domain": "science",
+    "text": "Thuyết tương đối của Einstein đã thay đổi hoàn toàn cách hiểu về không gian và thời gian."
+  },
+  {
+    "id": 92,
+    "domain": "science",
+    "text": "Kính viễn vọng không gian James Webb đã ghi lại những hình ảnh đáng kinh ngạc về vũ trụ sơ khai."
+  },
+  {
+    "id": 93,
+    "domain": "science",
+    "text": "Cấu trúc DNA được khám phá bởi Watson và Crick vào năm 1953."
+  },
+  {
+    "id": 94,
+    "domain": "science",
+    "text": "Vật lý lượng tử mô tả hành vi của các hạt ở cấp độ vi mô."
+  },
+  {
+    "id": 95,
+    "domain": "science",
+    "text": "Các nhà khoa học đang nghiên cứu cách sử dụng năng lượng nhiệt hạch như nguồn năng lượng sạch."
+  },
+  {
+    "id": 96,
+    "domain": "science",
+    "text": "Hệ mặt trời của chúng ta bao gồm tám hành tinh quay quanh mặt trời."
+  },
+  {
+    "id": 97,
+    "domain": "science",
+    "text": "Protein đóng vai trò thiết yếu trong các phản ứng sinh hóa diễn ra trong cơ thể sống."
+  },
+  {
+    "id": 98,
+    "domain": "science",
+    "text": "Sự tiến hóa của các loài được giải thích bởi thuyết chọn lọc tự nhiên của Darwin."
+  },
+  {
+    "id": 99,
+    "domain": "science",
+    "text": "Sóng hấp dẫn được phát hiện lần đầu tiên vào năm 2015 bởi đài quan sát LIGO."
+  },
+  {
+    "id": 100,
+    "domain": "science",
+    "text": "Vắc-xin mRNA đã mở ra một kỷ nguyên mới trong việc phòng ngừa và điều trị bệnh."
+  }
+]
